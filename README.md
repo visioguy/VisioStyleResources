@@ -22,3 +22,8 @@ In the future:
 - Upload macro-enabled Visio drawing that is used to automate the creation of the resources.
 - Upload the exported VBA code from that document's VBA project.
 - Visio fill patterns?
+
+## Note About Code in Directory 'src'
+The icons were generate from within Visio, using a combination of Visio SmartShapes and VBA (Visual Basic) code. I've uploaded the code from that document, because some of the procedures and techniques might be useful for folks needing to export Visio shapes. But the code realy makes 100% sense only if the Visio file is also present, since the SmartShapes in that document call the code, and the code depends on certain features of those shapes.
+
+Once the Visio file is sufficiently cleaned up, I will add it to the repository.
