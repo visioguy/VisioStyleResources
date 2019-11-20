@@ -9,5 +9,7 @@ Currently, VisioStyleResources has icons for:
 - Visio's built-in arrowhead styles, in 32x23, 64x64, and 128x128 sets. This includes icons for 46 arrowhead styles (indices 0-45), plus a complete "filmstrip" image (_allIcons_xx.png) that can be frame-shifted in place of 46 separate images.
 
 In the future:
+- Upload macro-enabled Visio drawing that is used to automate the creation of the resources.
+- Upload the exported VBA code from that document's VBA project.
 - Visio line patterns
 - Visio fill patterns?
