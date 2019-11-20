@@ -3,7 +3,7 @@ Visio Style Resources was created to assist in projects that mimic or expand on 
 
 It is the goal of this repository to provide icons and images that will make this less of a chore for Visio add-in developers. 
 
-For example, here are some of the built-in Visio arrowhead styles, exported as 128 x 128 pixel icons:
+For example, here are some of the built-in Visio arrowhead styles, exported as 128 x 128 pixel icons (pardon the DropBox adornments in Explorer...):
 
 ![Sample Arrowhead Icons](https://github.com/visioguy/VisioStyleResources/blob/master/img/sample_arrowhead_icons.png)
 
